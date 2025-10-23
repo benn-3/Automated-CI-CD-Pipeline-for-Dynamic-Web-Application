@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Automated-CI-CD-Pipeline-for-Dynamic-Web-Application
-=======
 Automated CI/CD Pipeline for Dynamic Web Application
 
 ![CI/CD Pipeline Banner](banner.png)
@@ -64,4 +61,4 @@ Implement GitOps principles using a tool like Argo CD.
 Set up automated alerting rules in Prometheus/Alertmanager.
 
 Expand Terraform modules to manage more cloud resources (e.g., databases, load balancers).
->>>>>>> a1fda23 (Added Readme.md file)
+
